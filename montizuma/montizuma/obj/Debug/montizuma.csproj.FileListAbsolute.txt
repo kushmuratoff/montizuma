@@ -1,0 +1,20 @@
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\bin\Debug\montizuma.exe.config
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\bin\Debug\montizuma.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\bin\Debug\montizuma.pdb
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.Form1.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.Properties.Resources.resources
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.csproj.GenerateResource.Cache
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.exe
+c:\users\пользователь\documents\visual studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.pdb
+C:\Users\Пользователь\Documents\Visual Studio 2013\Projects\montizuma\montizuma\obj\Debug\montizuma.ochkochilar.resources
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\bin\Debug\montizuma.exe.config
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.exe
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.pdb
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\bin\Debug\montizuma.exe
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\bin\Debug\montizuma.pdb
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.csprojResolveAssemblyReference.cache
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.Form1.resources
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.ochkochilar.resources
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.Properties.Resources.resources
+D:\Programma\2-kurs misoolari\Projects\montizuma\montizuma\obj\Debug\montizuma.csproj.GenerateResource.Cache
